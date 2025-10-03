@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Advita Bathole  
 
-<!--
-**advitabathole/advitabathole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **UC San Diego – AI Undergrad (Class of 2029)**  
+💻 Aspiring AI Engineer | Builder of creative tech projects | Hackathon Leader  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+Here are a few projects I’m working on (click to explore):  
+
+- 🐬 [UCSD Enrollment Chatbot](https://github.com/advitabathole/ucsd-enrollment-chatbot) – A chatbot built with Python + Flask to help students with enrollment.  
+- 📊 [UCSD Course Analyzer](#) – Data viz project analyzing course demand & waitlists.  
+- 🎨 [AI + Creativity Project](#) – Experimental AI tool mixing tech + storytelling.  
+
+---
+
+## ⚡ Skills
+- **Languages:** Python, Java, HTML/CSS/JS  
+- **Frameworks:** Flask, Streamlit  
+- **Focus Areas:** Generative AI, Data Visualization, Creative Applications  
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://linkedin.com/in/advitabathole) | [GitHub](https://github.com/advitabathole)
