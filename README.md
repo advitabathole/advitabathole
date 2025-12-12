@@ -1,25 +1,30 @@
-# 👋 Hi, I'm Advita Bathole  
+# Hello, I'm Advita Bathole.
 
-🎓 **UC San Diego – AI Undergrad (Class of 2029)**  
+**First-year AI Engineering student at UC San Diego passionate about building applied machine learning projects in computer vision, deep learning, and full-stack AI apps.**  
 💻 Aspiring AI Engineer | Builder of creative tech projects | Hackathon Leader  
 
 ---
 
-## 🔥 Featured Projects
-Here are a few projects I’m working on (click to explore):  
+**Skills**
 
-- 🐬 [UCSD Enrollment Chatbot](https://github.com/advitabathole/ucsd-enrollment-chatbot) – A chatbot built with Python + Flask to help students with enrollment.  
-- 📊 [UCSD Course Analyzer](#) – Data viz project analyzing course demand & waitlists.  
-- 🎨 [AI + Creativity Project](#) – Experimental AI tool mixing tech + storytelling.  
+Languages: Python, Java
 
----
+AI/ML: NumPy, Pandas, Matplotlib, Scikit-Learn, PyTorch (learning)
 
-## ⚡ Skills
-- **Languages:** Python, Java, HTML/CSS/JS  
-- **Frameworks:** Flask, Streamlit  
-- **Focus Areas:** Generative AI, Data Visualization, Creative Applications  
+Tools: Git, Jupyter, VS Code
 
----
+Interests: Computer Vision, NLP, AI Apps, Robotics
 
-## 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/in/advitabathole) | [GitHub](https://github.com/advitabathole)
+**What I’m Working On**
+
+Building a CIFAR-10 image classifier
+
+Creating AI apps using Streamlit
+
+Exploring deep learning fundamentals
+
+**Connect With Me**
+
+LinkedIn: (add your link)
+
+GitHub: github.com/advitabathole
