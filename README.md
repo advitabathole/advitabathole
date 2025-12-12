@@ -1,60 +1,50 @@
-# Hi, I'm Advita!
-I'm a first-year **Artificial Intelligence Engineering** student at **UC San Diego**, exploring the intersection of machine learning, programming, and applied science. I love building things from the ground up — whether it's ML models, automation tools, or small software projects that help me learn.
+# Hi, I'm Advita Bathole
 
-Currently working at the **IDEA Engineering Center at UCSD**, where I support engineering student programs and professional development.
-
----
-
-## Technical Skills
-**Languages:** Python, Java  
-**ML / AI:** NumPy, Pandas, Matplotlib, scikit-learn  
-**Developer Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-**Coursework:** Math 20A (Calc I), CSE 11 (Java), COGS 18 (Python), BILD 3 (Bio/Evolution)
+I'm a **first-year AI Engineering student at UCSD**, passionate about building applied AI projects in **computer vision, NLP, and interactive AI apps**.  
+Currently learning deep learning fundamentals, PyTorch, and building end-to-end ML pipelines.
 
 ---
 
-## What I'm Learning Right Now
-- Deep Learning foundations (PyTorch)  
-- Machine learning workflows end-to-end  
-- AI engineering tools (Docker, APIs, Streamlit)  
-- Data structures + algorithms (preparing for future SWE interviews)
+## Skills
+
+**Programming:** Python, Java  
+**AI/ML:** PyTorch, scikit-learn, NumPy, Pandas, Matplotlib  
+**Tools:** Git, GitHub, Jupyter, VS Code, Streamlit  
+**Coursework:** Fall Quarter 2025: Math 20A (Calc I), CSE 11 (Java), COGS 18 (Python), BILD 3 (Bio/Evolution)  
 
 ---
 
-## Experience & Research
-### **UCI M-SPIRE Research Intern – Materials Science & Nanotechnology**
-- Hands-on research in synthesis & characterization of advanced materials  
-- Collaborated with UCI faculty and graduate researchers  
-- Built strong lab, data recording, and technical communication skills  
+## Projects
 
-### **CHOC Healthcare Intern**
-- Selected from 560+ applicants  
-- Exposed to **AI in Medicine** journal discussions  
-- Mentored by hospital leaders, data scientists, and researchers  
-- Participated in clinical skills workshops
+### [CIFAR-10 Image Classifier](https://github.com/advitabathole/cifar10-image-classifier)
+- CNN for image classification on CIFAR-10  
+- PyTorch, training scripts, and evaluation notebooks  
 
-### **IDEA Center Intern – UCSD Jacobs School of Engineering**
-- Supporting engineering student programs, workshops, and community events  
-- Learning professional engineering workflows and project collaboration
+### [NLP Text Classifier](https://github.com/advitabathole/nlp-text-classifier)
+- Logistic Regression sentiment classifier  
+- TF-IDF vectorization, scikit-learn pipeline  
+
+### [AI Demo App](https://github.com/advitabathole/ai-demo-app)
+- Streamlit app for real-time sentiment analysis  
+- Interactive AI web app with trained ML model  
 
 ---
 
-## Highlight Projects (in progress)
-I’m building a set of projects to strengthen my AI engineering foundations:
+## Experience
 
-- **CIFAR-10 Image Classifier** (Python, PyTorch)  
-- **Sentiment Classifier (NLP)** using classical + neural approaches  
-- **AI Demo App** using Streamlit + an ML model  
-- **DSA Practice Repo** (Java/Python)
+- **IDEA Center Intern – UCSD Jacobs School of Engineering**  
+  Supporting engineering student programs, workshops, and professional development
 
-(Once these are created, I’ll pin them below.)
+- **UCI M-SPIRE Research Intern – Materials Science & Nanotechnology**  
+  Hands-on lab experience with synthesis & characterization, collaborated with faculty
+
+- **CHOC Healthcare Intern**  
+  Mentored in AI in Medicine, attended clinical workshops
 
 ---
 
 ## Connect With Me
-- **LinkedIn:** www.linkedin.com/in/advita-bathole  
+- **LinkedIn:** [advita-bathole](https://www.linkedin.com/in/advita-bathole)  
 - **Email:** abathole@ucsd.edu  
 
----
-
-⭐️ *Open to AI, ML, data, or software internships — always learning, always building.*
+⭐️ *Open to AI, ML, and software internships — always learning, always building.*
