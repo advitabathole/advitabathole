@@ -10,7 +10,9 @@ Currently learning deep learning fundamentals, PyTorch, and building end-to-end 
 **Programming:** Python, Java  
 **AI/ML:** PyTorch, scikit-learn, NumPy, Pandas, Matplotlib  
 **Tools:** Git, GitHub, Jupyter, VS Code, Streamlit  
-**Coursework:** Fall Quarter 2025: Math 20A (Calc I), CSE 11 (Java), COGS 18 (Python), BILD 3 (Bio/Evolution)  
+**Coursework:** 
+Fall Quarter 2025: Math 20A (Calc I), CSE 11 (Java), COGS 18 (Python), BILD 3 (Bio/Evolution)
+Winter Quarter 2026: Math 20B (Calc II), CSE 12 (DSA), CSE 25 (Intro to AI), WCWP 10A (Writing)
 
 ---
 
